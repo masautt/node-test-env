@@ -1,0 +1,19 @@
+{
+  "name": "node-test-env",
+  "version": "1.0.0",
+  "description": "Test environment for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masautt/node-test-env.git"
+  },
+  "author": "masautt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masautt/node-test-env/issues"
+  },
+  "homepage": "https://github.com/masautt/node-test-env#readme"
+}
